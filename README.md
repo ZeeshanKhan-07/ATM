@@ -1,2 +1,2 @@
-# ATM-Machine
+# ATM
 ATM Machine using java
